@@ -1,0 +1,6 @@
+
+
+// allt vi inte vill ha med i git
+
+node_modules/
+.env
